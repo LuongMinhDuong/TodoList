@@ -1,0 +1,8 @@
+body{
+    background-image: url('Messi.jpg');
+    background-size: cover;
+}
+.container{
+    font-style: italic;
+    color:rgb(255, 255, 255);
+}
